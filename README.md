@@ -25,7 +25,7 @@
 
 [![Github License](https://img.shields.io/github/issues/nitishsai9/Covid19LiveTrackerApp)](https://github.com/nitishsai9/Covid19LiveTrackerApp)
 [![Github License](https://img.shields.io/github/stars/nitishsai9/Covid19LiveTrackerApp)](https://github.com/nitishsai9/Covid19LiveTrackerApp)
-[![Github License](https://img.shields.io/github/stars/nitishsai9/Covid19LiveTrackerAp)](https://github.com/nitishsai9/Covid19LiveTrackerApp)
+
 [![Github License](https://img.shields.io/github/license/nitishsai9/Covid19LiveTrackerApp)](https://github.com/nitishsai9/Covid19LiveTrackerApp)
 [![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fnitishsai9%2FCovid19LiveTrackerApp)](https://twitter.com/Nitishsaik)
 
