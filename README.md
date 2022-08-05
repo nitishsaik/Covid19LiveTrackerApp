@@ -8,9 +8,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.paypal.me/nitishsai1999">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge">
-  </a>
    <a href="https://github.com/nitishsai9/Covid19LiveTrackerApp/raw/master/app-release.apk">
     <img src="https://img.shields.io/badge/Google-PlayStore-green.svg?style=for-the-badge">
   </a> 
